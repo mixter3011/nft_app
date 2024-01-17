@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "997656751207",
+    "project_id": "katsuma-auth",
+    "storage_bucket": "katsuma-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997656751207:android:f1d5b9116f9f29baba78c2",
+        "android_client_info": {
+          "package_name": "com.example.nft_katsuma"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAJvZGbnEwAj_A78cOr20IGUn3hVY8xMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
